@@ -1,5 +1,13 @@
+.git
 bin/
 obj/
 /packages/
-riderModule.iml
 /_ReSharper.Caches/
+.idea
+.gitignore
+*.csproj
+*.sln
+riderModule.iml
+Program.cs
+log.*
+*.txt
